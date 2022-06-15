@@ -1,19 +1,19 @@
 Cluster 1 (63):
-Akaganeite_Chan FeXANES: 37.10%
-AT11 Glass_Toner FeEXAFS: 12.37%
-Ferrihydrite_6L_borch_trunc: 50.53%
+Akaganeite_Chan FeXANES: 37.10% (oxyhydroxide)
+AT11 Glass_Toner FeEXAFS: 12.37% (?)
+Ferrihydrite_6L_borch_trunc: 50.53% (oxyhydroxide)
 
 Cluster 2 (51):
-Biotite_ETH_oa: 6.46%
-Ferrihydrite 2L_Kim FeXANES: 47.46%
-Na-Montmorillionite_SWY-2_MAM: 46.08%
+Biotite_ETH_oa: 6.46% (silicate)
+Ferrihydrite 2L_Kim FeXANES: 47.46% (oxyhydroxide)
+Na-Montmorillionite_SWY-2_MAM: 46.08% (clay)
 
 Cluster 3 (8):
-Biotite_ETH_oa: 11.69%
-Ferrihydrite 2L_Kim FeXANES: 60.64%
-Na-Montmorillionite_SWY-2_MAM: 27.67%
+Biotite_ETH_oa: 11.69% (silicate)
+Ferrihydrite 2L_Kim FeXANES: 60.64% (oxyhydroxide)
+Na-Montmorillionite_SWY-2_MAM: 27.67% (clay)
 
-Cluster 4 (4):
-Augite CVF1_NHM FeXANES powder avg: 25.23%
-Biotite_ETH_oa: 32.15%
-GRSO4_synth_Borch FeEXAFS overabs: 42.62%
+Cluster 4 (4): (outliers?)
+Augite CVF1_NHM FeXANES powder avg: 25.23% (silicate)
+Biotite_ETH_oa: 32.15% (silicate)
+GRSO4_synth_Borch FeEXAFS overabs: 42.62% (?)
