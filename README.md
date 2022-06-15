@@ -28,15 +28,17 @@ The datasets appear to be distinct.
 
 ## A Look at Clustering Within Each Dataset
 
-<p align="center">
 XANES1 (Western Subarctic Ocean)
+<p align="center">
 <img src="Figures/XANES1_cluster_analysis.png" alt="XANES1 clusters" width="600">
+</p>
 
 XANES2 (Southern Ocean)
+<p align="center">
 <img src="Figures/XANES2_cluster_analysis.png" alt="XANES2 clusters" width="600">
+</p>
 
 Cluster 4 is clearly a group of outliers.
-</p>
 
 
 ## The Results of Linear Combination Fitting Cluster Averages onto References
