@@ -2,7 +2,8 @@
 A look at clustering of the Fe K-edge XANES data of oceanographic samples taken from Station K2 in the Subarctic Northwest Pacific. Data is courtesy of Phoebe Lam and Matthew Marcus.
 
 This analysis is based on the study found in
-Marcus Matthew A., Lam Phoebe J. (2014) Visualising Fe speciation diversity in ocean particulate samples by micro X-ray absorption near-edge spectroscopy. Environmental Chemistry 11, 10-17. 
+
+**Marcus Matthew A., Lam Phoebe J. (2014) Visualising Fe speciation diversity in ocean particulate samples by micro X-ray absorption near-edge spectroscopy. Environmental Chemistry 11, 10-17.**
 
 
 ## Visualizing the Dataset
