@@ -1,5 +1,5 @@
 Cluster 1 (11): (outliers?)
-AT11 Glass_Toner FeEXAFS: 10.58% (?)
+AT11 Glass_Toner FeEXAFS: 10.58% (Basalt glass, Fe2+)
 Ferrihydrite 2L_Kim FeXANES: 51.38% (oxyhydroxide)
 magnetite syn FeEXAFS TEY001: 38.04% (oxide)
 
@@ -11,10 +11,10 @@ Illite_Smectite_mixedlayer_ISCz-1 FeQXANES: 37.34% (clay)
 Cluster 3 (53):
 Akaganeite_Chan FeXANES: 35.68% (oxyhydroxide)
 Hornblende_Borch_notcalib FeEXAFS: 44.79% (silicate)
-ilmenite FeXANES generic: 19.54% (?)
+ilmenite FeXANES generic: 19.54% (Fe2+TiO3)
 
 Cluster 4 (30):
-Almandine_Waychunas FeXANES: 10.31% (silicate?)
+Almandine_Waychunas FeXANES: 10.31% (Fe2+ garnet)
 Biotite_ETH_oa: 19.31% (silicate)
 Hornblende_Borch_notcalib FeEXAFS: 70.38% (silicate)
 

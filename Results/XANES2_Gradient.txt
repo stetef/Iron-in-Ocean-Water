@@ -1,0 +1,19 @@
+Cluster 1 (11):
+Hornblende_Borch_notcalib FeEXAFS: 24.33% (silicate)
+Nontronite_Borch FeEXAFS overabs: 20.69%
+Toner biogenic oxide OAC: 54.98% (oxyhydroxide)
+
+Cluster 2 (43):
+Fe182 Al018: 50.23%
+Ferrihydrite 2L_Kim FeXANES: 38.01% (oxyhydroxide)
+NKT-1G Basalt Glass_NHM FeXANES: 11.76%
+
+Cluster 3 (95):
+Biotite_ETH_oa: 8.46% (silicate)
+Ferrihydrite 2L_Kim FeXANES: 56.39% (oxyhydroxide)
+Na-Montmorillionite_SWY-2_MAM: 35.15% (clay)
+
+Cluster 4 (16):
+Biotite_ETH_oa: 6.34% (silicate)
+Ferrihydrite 2L_Kim FeXANES: 47.22% (opxyhydroxide)
+Na-Montmorillionite_SWY-2_MAM: 46.44% (clay)

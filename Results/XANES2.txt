@@ -1,6 +1,6 @@
 Cluster 1 (63):
 Akaganeite_Chan FeXANES: 37.10% (oxyhydroxide)
-AT11 Glass_Toner FeEXAFS: 12.37% (?)
+AT11 Glass_Toner FeEXAFS: 12.37% (Basalt glass, Fe2+)
 Ferrihydrite_6L_borch_trunc: 50.53% (oxyhydroxide)
 
 Cluster 2 (51):

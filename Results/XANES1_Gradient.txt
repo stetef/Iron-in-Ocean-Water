@@ -1,0 +1,29 @@
+Cluster 1 (11): (SAME)
+AT11 Glass_Toner FeEXAFS: 10.58%  (Basalt glass, Fe2+)
+Ferrihydrite 2L_Kim FeXANES: 51.38% (oxyhydroxide)
+magnetite syn FeEXAFS TEY001: 38.04% (oxide)
+
+Cluster 2 (43):
+Hematite FeXANES: 26.74%
+Hornblende_Borch_notcalib FeEXAFS: 23.08% (silicate)
+Toner biogenic oxide OAC: 50.18% (oxyhydroxide)
+
+Cluster 3 (95):
+Augite_Borch_FeXANES trans: 42.18% (silicate)
+Biotite_ETH_oa: 16.33% (silicate)
+Ferrihydrite 2L_Kim FeXANES: 41.49% (oxyhydroxide)
+
+Cluster 4 (16):
+Akaganeite_Chan FeXANES: 55.69% (oxyhydroxide)
+HFO-Fe4_P4_av: 34.20%
+Montmorillionite_SCa-3 FeQXANES: 10.11% (clay)
+
+Cluster 5 (30):
+Biotite_ETH_oa: 12.79% (silicate)
+Ferrihydrite 2L_Kim FeXANES: 35.12% (oxyhydroxide)
+Na-Montmorillionite_SWY-2_MAM: 52.08% (clay)
+
+Cluster 6 (19):
+Biotite_ETH_oa: 22.40% (silicate)
+Chlorite(Ripidolite)_CCa2_35G_TRA_HLC_Mar09_2sc: 49.97%
+Toner biogenic oxide OAC: 27.63% (oxyhydroxide)
